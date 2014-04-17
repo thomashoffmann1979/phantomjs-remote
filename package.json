@@ -1,5 +1,5 @@
 {
-    "name": "phantomjs-remote",
+    "name": "tualo-phantomjs-remote",
     "description": "A phantomjs wrapper for node.js",
     "main": "lib/phantomjs-remote.js",
     "version": "0.0.1",
