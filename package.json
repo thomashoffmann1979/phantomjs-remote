@@ -1,0 +1,17 @@
+{
+    "name": "phantomjs-remote",
+    "description": "A phantomjs wrapper for node.js",
+    "main": "lib/phantomjs-remote.js",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "maintainers": [
+        {
+            "name": "Thomas Hoffmann",
+            "email": "thomas.hoffmann@tualo.de",
+            "url": "http://tualo.de/"
+        }
+    ],
+    "readmeFilename": "README.md"
+}
